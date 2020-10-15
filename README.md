@@ -12,12 +12,6 @@
 
 <div align=center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-dain&layout=compact)](https://github.com/dev-dain/github-readme-stats)
-
-</div>
-
-<div align=center>
-
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dev-dain.tistory.com/)](https://dev-dain.tistory.com/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.dain.k@gmail.com)](mailto:dev.dain.k@gmail.com)
 
