@@ -11,6 +11,7 @@
 - 2020.08 ["Map The Seoul"](https://github.com/dev-dain/Map-The-Seoul) 개발 (엑셀 파일을 파싱해 카카오 지도에 마커를 찍어주는 서비스. Node.js)
 - 2020.09 ~ 2020.11 Node.js 기초 강의 (Node.js)
 - 2020.10 [심리테스트 SPA 페이지](https://coffeetest.co.kr/) 개발 (Vue.js + Nuxt.js)
+- 2021.02 ~ 2021.10 졸업작품 MIKI (Javascript, TypeScript) 개발
 
 <div align=center>
 
