@@ -5,15 +5,15 @@
 - 클라이언트와 가장 가까이 있는 개발자로서, 클라이언트와 소통하고 훌륭한 사용자 경험을 제공하기 위해 노력합니다.  
 ---
 ## 개발한 서비스
-- 2022.09 ~ **PhotiCase 앱** for Cross-Platform (Flutter, sqflite)
-- 2022.08 ~ **PhotiCase 앱** for iOS (Swift, UIKit, SnapKit, Realm, RxSwift)
-- 2021.02 ~ 2021.10 [졸업작품 **웹앱 MIKI**](https://github.com/dev-dain/graduate-Project-miki) (ES6, TypeScript) 개발
-- 2020.10 [쇼핑몰 이벤트용 **심리테스트 SPA 페이지**](https://coffee-mindtest.github.io/build-the-test/) 개발 (Vue.js + Nuxt.js)
-- 2020.09 ~ 2020.11 [**Node.js 기초 강의**](https://github.com/dev-dain/Node-Lecture) 진행 (Node.js)
-- 2020.08 [Map The Seoul](https://github.com/dev-dain/Map-The-Seoul) 개발 (**엑셀 파일을 파싱해 카카오 지도에 마커를 찍어주는 서비스** :: Node.js)
-- 2020.07 ~ 2022.02 [**덕성여대 학식알리미 카카오톡 챗봇**](https://github.com/dev-dain/Duksung-meal-js) 개발, 운영 (Node.js)
-- 2019.09 beautifulsoup4를 이용한 [**파이썬 웹크롤링 일일강의**](https://github.com/dev-dain/python-crawling-example)
-- 2018.08 ~ 2020.06 [**덕성여대 학식알리미 카카오톡 챗봇** 개발/유지보수](https://github.com/dev-dain/Duksung-meal-for-kakao) (Python django2)
+- 2022.09 ~ PhotiCase 앱 for Cross-Platform (**Flutter**, sqflite)
+- 2022.08 ~ PhotiCase 앱 for iOS (**Swift, UIKit**, SnapKit, Realm, RxSwift)
+- 2021.02 ~ 2021.10 [졸업작품 웹앱 MIKI](https://github.com/dev-dain/graduate-Project-miki) (**ES6**, TypeScript) 개발
+- 2020.10 [쇼핑몰 이벤트용 심리테스트 SPA 페이지](https://coffee-mindtest.github.io/build-the-test/) 개발 (**Vue.js** + Nuxt.js)
+- 2020.09 ~ 2020.11 [Node.js 기초 강의](https://github.com/dev-dain/Node-Lecture) 진행 (**Node.js**)
+- 2020.08 [Map The Seoul](https://github.com/dev-dain/Map-The-Seoul) 개발 (엑셀 파일을 파싱해 카카오 지도에 마커를 찍어주는 서비스) (**Node.js**)
+- 2020.07 ~ 2022.02 [덕성여대 학식알리미 카카오톡 챗봇](https://github.com/dev-dain/Duksung-meal-js) 개발, 운영 (**Node.js**)
+- 2019.09 beautifulsoup4를 이용한 [파이썬 웹크롤링 일일강의](https://github.com/dev-dain/python-crawling-example)
+- 2018.08 ~ 2020.06 [덕성여대 학식알리미 카카오톡 챗봇 개발/유지보수](https://github.com/dev-dain/Duksung-meal-for-kakao) (**Python django2**)
 
 ---
 ## 기술 스택  
