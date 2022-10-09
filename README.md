@@ -5,7 +5,6 @@
 - 클라이언트와 가장 가까이 있는 개발자로서, 클라이언트와 소통하고 훌륭한 사용자 경험을 제공하기 위해 노력합니다.  
 ---
 ## 개발한 서비스
-- 2022.09 ~ PhotiCase 앱 for Cross-Platform (**Flutter**, sqflite)
 - 2022.08 ~ [**PhotiCase 앱** for iOS](https://apps.apple.com/kr/app/%ED%8F%AC%ED%8B%B0%EC%BC%80%EC%9D%B4%EC%8A%A4/id6443459422) (**Swift, UIKit**, SnapKit, Realm, RxSwift)
 - 2021.02 ~ 2021.10 [졸업작품 웹앱 MIKI](https://github.com/dev-dain/graduate-Project-miki) (**ES6**, TypeScript) 개발
 - 2020.10 [쇼핑몰 이벤트용 심리테스트 SPA 페이지](https://coffee-mindtest.github.io/build-the-test/) 개발 (**Vue.js** + Nuxt.js)
