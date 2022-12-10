@@ -26,4 +26,4 @@
 ## 채널  
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dev-dain.tistory.com/)](https://dev-dain.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.dain.k@gmail.com)](mailto:dev.dain.k@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://little-editorial-005.notion.site/39cc789a67a143dc8d126a9e3986996d)](https://little-editorial-005.notion.site/39cc789a67a143dc8d126a9e3986996d)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://little-editorial-005.notion.site/39cc789a67a143dc8d126a9e3986996d)](https://www.notion.so/af94dc3f80c54bf18983870eaee6ab96)
