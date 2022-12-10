@@ -5,7 +5,6 @@
 - 클라이언트와 가장 가까이 있는 개발자로서, 클라이언트와 소통하고 훌륭한 사용자 경험을 제공하기 위해 노력합니다.  
 ---
 ## 개발한 서비스
-- 2022.09 ~ [**PhotiCase 앱** for Android](https://play.google.com/store/apps/details?id=com.photicase.photicase) (**Flutter**, sqflite)
 - 2022.08 ~ [**PhotiCase 앱** for iOS](https://apps.apple.com/kr/app/%ED%8F%AC%ED%8B%B0%EC%BC%80%EC%9D%B4%EC%8A%A4/id6443459422) (**Swift, UIKit**, SnapKit, Realm)
 - 2021.02 ~ 2021.10 [졸업작품 웹앱 MIKI](https://github.com/dev-dain/graduate-Project-miki) (**ES6**, TypeScript) 개발
 - 2020.10 [쇼핑몰 이벤트용 심리테스트 SPA 페이지](https://coffee-mindtest.github.io/build-the-test/) 개발 (**Vue.js** + Nuxt.js)
@@ -18,7 +17,6 @@
 ---
 ## 기술 스택  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
