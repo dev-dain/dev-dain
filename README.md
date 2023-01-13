@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=2D9CDB&height=200&section=header&text=코드를%20책임지는%20개발자&fontColor=ffffff&fontSize=60)  
-- **코드와 서비스를 책임지는 개발자** 김다인입니다.
+![header](https://capsule-render.vercel.app/api?type=waving&color=2D9CDB&height=200&section=header&text=iOS%20개발자&fontColor=ffffff&fontSize=60)  
+- **iOS 개발자** 김다인입니다.
 - 제품의 기획부터 디자인, 화면단 개발 및 배포, 유지보수 단계까지 **폭넓은 개발 경험**이 있습니다. 이를 토대로 비즈니스를 성공으로 이끄는 코드를 짜는 데 관심이 많습니다.
 - 필요한 기술을 배우고, 빠르게 구현한 뒤, 꼼꼼히 수정하고 유지하면서 앱이 살아있도록 만듭니다.
 - 클라이언트와 가장 가까이 있는 개발자로서, 클라이언트와 소통하고 훌륭한 사용자 경험을 제공하기 위해 노력합니다.  
