@@ -1,8 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=2D9CDB&height=200&section=header&text=iOS%20개발자&fontColor=ffffff&fontSize=60)  
 - **1년차 iOS 개발자** 김다인입니다.
+- 독서 콘텐츠 플랫폼 앱 **[윌라](https://apps.apple.com/kr/app/%EC%9C%8C%EB%9D%BC/id1250319483)** 아이폰/아이패드 앱 개발을 담당했습니다.
+- 카플레이 && 콘텐츠 오프라인 모드 && UI/UX 개선 && 새로운 API 연동 등 개발, 출시 경험이 있습니다.
 - 주어진 일정 내에서 가장 읽기 쉬운 코드를 만들기 위해 고민합니다. 
 - 기능 구현에 필요한 기술을 빠르게 습득하여 프로덕트에 적용할 수 있는 기민함이 있습니다.
 - 기획과 디자인의 의도를 살리는 구현을 위해 노력합니다.
+  
 ---
 # 경력
 - 2022.12 ~ 인플루엔셜(윌라) iOS 개발자
