@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=2D9CDB&height=200&section=header&text=iOS%20개발자&fontColor=ffffff&fontSize=60)  
-- **1년 6개월 경력의 iOS 개발자** 김다인입니다.
+- **1년 10개월 경력의 iOS 개발자** 김다인입니다.
 - 오디오북, 전자책 독서 콘텐츠 플랫폼 앱 **[윌라](https://apps.apple.com/kr/app/%EC%9C%8C%EB%9D%BC/id1250319483)** 아이폰/아이패드 앱 개발을 담당했습니다.
 - 카플레이, 콘텐츠 오프라인 모드, UI/UX 개선, 새로운 API 연동 등 개발, 출시 경험이 있습니다.
 - 기능 구현에 필요한 기술을 빠르게 습득하여 프로덕트에 적용할 수 있는 기민함이 있습니다.
@@ -8,8 +8,12 @@
 ---
 # 경력
 - 2022.12 ~ 인플루엔셜(윌라) iOS 개발자
-  - 2024.03 ~ 2024.05 윌라 2.0 업데이트 (홈/키즈 디자인 구현 및 기능 추가)
-  - 2024.01 ~ 2024.02 전자책, 오디오북 동시 이용을 위한 기능 업데이트
+  - 2024.08 Original StoreKit -> StoreKit2 결제 모듈 마이그레이션 대응
+  - 2024.07 ~ 2024.08 고정 크기 썸네일 ratioable 가변 조절 기능 추가
+  - 2024.07 통신 레이어에 async-await 일부 도입
+  - 2024.06 앱 내 컴포넌트 접근성 (VoiceOver) 점검 및 적용
+  - 2024.03 ~ 2024.05 윌라 2.0 업데이트 (홈/키즈 디자인 구현 및 기능 추가 및 앰플리튜드, 브레이즈 이벤트)
+  - 2024.01 ~ 2024.02 전자책, 오디오북 동시 이용을 위한 기능 업데이트 (AVPlayer)
   - 2023.12 ~ 테스트 코드 추가
   - 2023.12 ~ ReactorKit, Realm 사내 세미나 및 실무 코드 적용
     2023.04 ~ 2023.11 전자책 업데이트를 위한 피쳐 개발, 사내 배포 담당
@@ -20,7 +24,7 @@
   - 2022.12 ~ Crashlytics, Sentry 분석을 통한 운영 이슈 처리
 ---
 ## 개발한 서비스
-- 2022.08 ~ [**PhotiCase 앱** for iOS](https://apps.apple.com/kr/app/%ED%8F%AC%ED%8B%B0%EC%BC%80%EC%9D%B4%EC%8A%A4/id6443459422) (**ReactorKit, UIKit**, SnapKit, Realm)
+- 2022.08 ~ 2024.10 [**PhotiCase 앱** for iOS](https://apps.apple.com/kr/app/%ED%8F%AC%ED%8B%B0%EC%BC%80%EC%9D%B4%EC%8A%A4/id6443459422) (**ReactorKit, UIKit**, SnapKit, Realm)
 - 2020.10 [쇼핑몰 이벤트용 심리테스트 SPA 페이지](https://coffee-mindtest.github.io/build-the-test/) 개발 (**Vue.js** + Nuxt.js)
 - 2020.08 [Map The Seoul](https://github.com/dev-dain/Map-The-Seoul) 개발 (엑셀 파일을 파싱해 카카오 지도에 마커를 찍어주는 서비스) (**Node.js**)
 - 2020.07 ~ 2022.02 [덕성여대 학식알리미 카카오톡 챗봇](https://github.com/dev-dain/Duksung-meal-js) 개발, 운영 (**Node.js**)
